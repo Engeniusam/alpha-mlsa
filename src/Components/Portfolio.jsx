@@ -44,8 +44,7 @@ const projectList = [
   },
   {
     title: "My Resume Site",
-    description:
-      "Created to showcase projects that I have worked on.",
+    description: "Created to showcase projects that I have worked on.",
     url: "https://engeniusam.github.io/portfolio.com/",
   },
   {
